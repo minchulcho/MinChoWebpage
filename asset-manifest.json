@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MinChoWebpage.git/static/css/main.facc027b.chunk.css",
-    "main.js": "/MinChoWebpage.git/static/js/main.a1d80341.chunk.js",
-    "main.js.map": "/MinChoWebpage.git/static/js/main.a1d80341.chunk.js.map",
-    "runtime-main.js": "/MinChoWebpage.git/static/js/runtime-main.792324d1.js",
-    "runtime-main.js.map": "/MinChoWebpage.git/static/js/runtime-main.792324d1.js.map",
-    "static/js/2.d3dd0e1c.chunk.js": "/MinChoWebpage.git/static/js/2.d3dd0e1c.chunk.js",
-    "static/js/2.d3dd0e1c.chunk.js.map": "/MinChoWebpage.git/static/js/2.d3dd0e1c.chunk.js.map",
-    "index.html": "/MinChoWebpage.git/index.html",
-    "static/css/main.facc027b.chunk.css.map": "/MinChoWebpage.git/static/css/main.facc027b.chunk.css.map",
-    "static/js/2.d3dd0e1c.chunk.js.LICENSE.txt": "/MinChoWebpage.git/static/js/2.d3dd0e1c.chunk.js.LICENSE.txt"
+    "main.css": "/MinChoWebpage/static/css/main.facc027b.chunk.css",
+    "main.js": "/MinChoWebpage/static/js/main.a1d80341.chunk.js",
+    "main.js.map": "/MinChoWebpage/static/js/main.a1d80341.chunk.js.map",
+    "runtime-main.js": "/MinChoWebpage/static/js/runtime-main.ff983b16.js",
+    "runtime-main.js.map": "/MinChoWebpage/static/js/runtime-main.ff983b16.js.map",
+    "static/js/2.d3dd0e1c.chunk.js": "/MinChoWebpage/static/js/2.d3dd0e1c.chunk.js",
+    "static/js/2.d3dd0e1c.chunk.js.map": "/MinChoWebpage/static/js/2.d3dd0e1c.chunk.js.map",
+    "index.html": "/MinChoWebpage/index.html",
+    "static/css/main.facc027b.chunk.css.map": "/MinChoWebpage/static/css/main.facc027b.chunk.css.map",
+    "static/js/2.d3dd0e1c.chunk.js.LICENSE.txt": "/MinChoWebpage/static/js/2.d3dd0e1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.792324d1.js",
+    "static/js/runtime-main.ff983b16.js",
     "static/js/2.d3dd0e1c.chunk.js",
     "static/css/main.facc027b.chunk.css",
     "static/js/main.a1d80341.chunk.js"
