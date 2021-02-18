@@ -8,7 +8,7 @@ export const homeObjOne = {
     'Graduate UCI Dec 2020 ',
   buttonLabel: 'Click to print',
   imgStart: '',
-  img: 'images/ResumeSmall.png',
+  img: 'public/images/ResumeSmall.png',
   alt: 'Credit Card'
 };
 
