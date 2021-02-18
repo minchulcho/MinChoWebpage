@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MinChoWebpage/static/css/main.facc027b.chunk.css",
-    "main.js": "/MinChoWebpage/static/js/main.a1d80341.chunk.js",
-    "main.js.map": "/MinChoWebpage/static/js/main.a1d80341.chunk.js.map",
+    "main.js": "/MinChoWebpage/static/js/main.7d24bbe1.chunk.js",
+    "main.js.map": "/MinChoWebpage/static/js/main.7d24bbe1.chunk.js.map",
     "runtime-main.js": "/MinChoWebpage/static/js/runtime-main.ff983b16.js",
     "runtime-main.js.map": "/MinChoWebpage/static/js/runtime-main.ff983b16.js.map",
     "static/js/2.d3dd0e1c.chunk.js": "/MinChoWebpage/static/js/2.d3dd0e1c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ff983b16.js",
     "static/js/2.d3dd0e1c.chunk.js",
     "static/css/main.facc027b.chunk.css",
-    "static/js/main.a1d80341.chunk.js"
+    "static/js/main.7d24bbe1.chunk.js"
   ]
 }
